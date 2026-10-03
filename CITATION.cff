@@ -5,5 +5,5 @@ type: software
 authors:
   - family-names: "Gil Becerra"
     given-names: "Maricruz Evelyn"
-version: "1.0"
+version: "1.0.0"
 date-released: "2026-10-02"
