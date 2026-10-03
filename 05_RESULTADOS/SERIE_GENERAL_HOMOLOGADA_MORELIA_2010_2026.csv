@@ -1,0 +1,17 @@
+﻿Año,Total_min,Total_max,Total_original,Amplitud_total,Establecimientos,Cambio_absoluto,Cambio_porcentual,Años_desde_corte_anterior,Nota_intervalo
+2010,34656,34656,34656,0,34656,,,,Inicio de serie
+2011,35093,35093,35093,0,35093,437.0,1.2609649122806932,1.0,Comparación entre cortes consecutivos seleccionados
+2012,35289,35289,35289,0,35289,196.0,0.5585159433505238,1.0,Comparación entre cortes consecutivos seleccionados
+2013,35797,35797,35797,0,35797,508.0,1.4395420669330417,1.0,Comparación entre cortes consecutivos seleccionados
+2015,37677,37677,37677,0,37677,1880.0,5.251836746096039,2.0,Intervalo 2013–2015; no existe corte seleccionado 2014
+2016,38372,38372,38372,0,38372,695.0,1.844626695331364,1.0,Comparación entre cortes consecutivos seleccionados
+2017,38536,38536,38536,0,38536,164.0,0.42739497550297045,1.0,Comparación entre cortes consecutivos seleccionados
+2018,38728,38728,38728,0,38728,192.0,0.4982354162341718,1.0,Comparación entre cortes consecutivos seleccionados
+2019,40483,40484,40484,1,40484,1756.0,4.534187151415003,1.0,Ruptura de actualización DENUE asociada al levantamiento censal 2019
+2020,41447,41448,41448,1,41448,964.0,2.38118762968087,1.0,Comparación entre cortes consecutivos seleccionados
+2021,41289,41290,41290,1,41290,-158.0,-0.38120054043621066,1.0,Comparación entre cortes consecutivos seleccionados
+2022,41302,41303,41303,1,41303,13.0,0.03148462097359861,1.0,Comparación entre cortes consecutivos seleccionados
+2023,41322,41323,41323,1,41323,20.0,0.04842263273854286,1.0,Comparación entre cortes consecutivos seleccionados
+2024,44930,44931,44931,1,44931,3608.0,8.731215061829968,1.0,Actualización amplia DENUE y transición SCIAN 2018–2023
+2025,45352,45353,45353,1,45353,422.0,0.9392179119093624,1.0,Comparación entre cortes consecutivos seleccionados
+2026,45674,45675,45675,1,45675,322.0,0.709986108967442,1.0,Comparación entre cortes consecutivos seleccionados

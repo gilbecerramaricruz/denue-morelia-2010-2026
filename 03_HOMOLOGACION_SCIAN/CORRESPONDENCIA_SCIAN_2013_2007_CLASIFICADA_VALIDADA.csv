@@ -1,0 +1,76 @@
+﻿SCIAN_2013,Nombre_2013,Parte,SCIAN_2007,Nombre_2007,Pagina_PDF,N_2007_por_2013,N_2013_por_2007,Cardinalidad,Correspondencia_parcial
+111214,Cultivo de melón,p 1/2,111214,Cultivo de melón o sandía (cultivo de melón),7,1,2,1 a N (un 2007 se divide en varios 2013),True
+111218,Cultivo de sandía,p 2/2,111214,Cultivo de melón o sandía (cultivo de sandía),7,1,2,1 a N (un 2007 se divide en varios 2013),True
+111942,Cultivo de pastos,,111942,Cultivo de pastos y zacates,7,1,1,1 a 1,False
+112512,"Piscicultura y otra acuicultura, excepto camaronicultura",,112512,"Piscicultura y otra acuicultura, excepto camaronicultura",7,2,1,N a 1 (varios 2007 forman un 2013),False
+112512,"Piscicultura y otra acuicultura, excepto camaronicultura",p 1/2,112999,Explotación de otros animales (explotación de cocodrilos en ambientes controlados),7,2,2,N a N,True
+112999,Explotación de otros animales,p 2/2,112999,Explotación de otros animales (excepto explotación de cocodrilos en ambientes controlados),7,1,2,1 a N (un 2007 se divide en varios 2013),True
+114119,"Pesca y captura de otros peces, crustáceos, moluscos y otras especies MANUFACTURERAS",,114119,"Pesca y captura de peces, crustáceos, moluscos y otras especies",7,1,1,1 a 1,False
+311350,Elaboración de chocolate y productos de chocolate,,311320,Elaboración de chocolate y productos de chocolate a partir de cacao,7,2,1,N a 1 (varios 2007 forman un 2013),False
+311350,Elaboración de chocolate y productos de chocolate,,311330,Elaboración de productos de chocolate a partir de chocolate,7,2,1,N a 1 (varios 2007 forman un 2013),False
+311412,Congelación de guisos y otros alimentos preparados,,311412,Congelación de alimentos preparados,7,1,1,1 a 1,False
+311423,Conservación de guisos y otros alimentos preparados por procesos distintos a la congelación,,311423,Conservación de alimentos preparados por procesos distintos a la congelación,7,1,1,1 a 1,False
+313111,Preparación e hilado de fibras duras naturales,,313111,Preparación e hilado de fibras duras naturales,7,4,1,N a 1 (varios 2007 forman un 2013),False
+313111,Preparación e hilado de fibras duras naturales,p 1/2,314911,Confección de costales (tejido de costales de fibras duras naturales compradas),7,4,2,N a N,True
+313111,Preparación e hilado de fibras duras naturales,p 1/2,314999,"Fabricación de banderas y otros productos textiles no clasificados en otra parte (tejido de cestos, canastos, petates y artículos decorativos de palma y fibras similares preparadas compradas)",7,4,2,N a N,True
+313111,Preparación e hilado de fibras duras naturales,p 1/2,316991,"Fabricación de bolsos de mano, maletas y similares (tejido de bolsos de mano de palma y fibras similares preparadas compradas)",7,4,2,N a N,True
+313210,Fabricación de telas anchas de tejido de trama,,313210,Fabricación de telas anchas de trama,7,1,1,1 a 1,False
+313220,Fabricación de telas angostas de tejido de trama y pasamanería,,313220,Fabricación de telas angostas de trama y pasamanería,7,1,1,1 a 1,False
+313240,Fabricación de telas de tejido de punto,,313240,Fabricación de telas de punto,7,1,1,1 a 1,False
+314911,Confección de costales,p 2/2,314911,Confección de costales (excepto tejido de costales de fibras duras naturales compradas),7,1,2,1 a N (un 2007 se divide en varios 2013),True
+314999,Fabricación de banderas y otros productos textiles no clasificados en otra parte,p 2/2,314999,"Fabricación de banderas y otros productos textiles no clasificados en otra parte (excepto tejido de cestos, canastos, petates y artículos decorativos de palma y fibras similares preparadas compradas) 2",7,1,2,1 a N (un 2007 se divide en varios 2013),True
+315110,Fabricación de calcetines y medias de tejido de punto,,315110,Fabricación de calcetines y medias de punto,8,1,1,1 a 1,False
+315191,Fabricación de ropa interior de tejido de punto,,315191,Fabricación de ropa interior de punto,8,1,1,1 a 1,False
+315192,Fabricación de ropa exterior de tejido de punto,,315192,Fabricación de ropa exterior de punto,8,1,1,1 a 1,False
+316991,"Fabricación de bolsos de mano, maletas y similares",p 2/2,316991,"Fabricación de bolsos de mano, maletas y similares (excepto tejido de bolsos de mano de palma y fibras similares preparadas compradas)",8,1,2,1 a N (un 2007 se divide en varios 2013),True
+333241,Fabricación de maquinaria y equipo para la industria de la madera,,333210,Fabricación de maquinaria y equipo para la industria de la madera,8,1,1,1 a 1,False
+333242,Fabricación de maquinaria y equipo para la industria del hule y del plástico,,333220,Fabricación de maquinaria y equipo para la industria del hule y del plástico,8,1,1,1 a 1,False
+333243,Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas,,333291,Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas,8,1,1,1 a 1,False
+333244,Fabricación de maquinaria y equipo para la industria textil,,333292,Fabricación de maquinaria y equipo para la industria textil,8,1,1,1 a 1,False
+333245,Fabricación de maquinaria y equipo para la industria de la impresión,,333293,Fabricación de maquinaria y equipo para la industria de la impresión,8,1,1,1 a 1,False
+333246,Fabricación de maquinaria y equipo para la industria del vidrio y otros minerales no metálicos,,333294,Fabricación de maquinaria y equipo para la industria del vidrio y otros minerales no metálicos,8,1,1,1 a 1,False
+333249,Fabricación de maquinaria y equipo para otras industrias manufactureras,,333299,Fabricación de maquinaria y equipo para otras industrias manufactureras,8,1,1,1 a 1,False
+336110,Fabricación de automóviles y camionetas,,336110,Fabricación de automóviles y camionetas,8,2,1,N a 1 (varios 2007 forman un 2013),False
+336110,Fabricación de automóviles y camionetas,p 1/2,336999,Fabricación de otro equipo de transporte (fabricación de vehículos eléctricos de reparto y de uso industrial),8,2,2,N a N,True
+336310,Fabricación de motores y sus partes para vehículos automotrices,,336310,Fabricación de motores de gasolina y sus partes para vehículos automotrices,8,1,1,1 a 1,False
+336999,Fabricación de otro equipo de transporte AL POR MAYOR,p 2/2,336999,Fabricación de otro equipo de transporte (excepto fabricación de vehículos eléctricos de reparto y de uso industrial),8,1,2,1 a N (un 2007 se divide en varios 2013),True
+433312,Comercio al por mayor de juguetes y bicicletas,,433312,Comercio al por mayor de juguetes y bicicletas,8,2,1,N a 1 (varios 2007 forman un 2013),False
+433312,Comercio al por mayor de juguetes y bicicletas,p 1/2,433313,Comercio al por mayor de artículos y aparatos deportivos (comercio al por mayor de bicicletas deportivas),8,2,2,N a N,True
+433313,Comercio al por mayor de artículos y aparatos deportivos AL POR MENOR,p 2/2,433313,Comercio al por mayor de artículos y aparatos deportivos (excepto comercio al por mayor de bicicletas deportivas),8,1,2,1 a N (un 2007 se divide en varios 2013),True
+465213,Comercio al por menor de bicicletas,,465213,Comercio al por menor de bicicletas,8,2,1,N a 1 (varios 2007 forman un 2013),False
+465213,Comercio al por menor de bicicletas,p 1/2,465215,Comercio al por menor de artículos y aparatos deportivos (comercio al por menor de bicicletas deportivas) 3,8,2,2,N a N,True
+465215,Comercio al por menor de artículos y aparatos deportivos,p 2/2,465215,Comercio al por menor de artículos y aparatos deportivos (excepto comercio al por menor de bicicletas deportivas) Vínculo con varias clases del sector comercio al por menor,9,1,2,1 a N (un 2007 se divide en varios 2013),True
+517110,Operadores de servicios de telecomunicaciones alámbricas,,517111,"Operadores de telecomunicaciones alámbricas, excepto por suscripción",9,2,1,N a 1 (varios 2007 forman un 2013),False
+517110,Operadores de servicios de telecomunicaciones alámbricas,,517112,Operadores de telecomunicaciones alámbricas por suscripción,9,2,1,N a 1 (varios 2007 forman un 2013),False
+517210,Operadores de servicios de telecomunicaciones inalámbricas,,517210,"Operadores de telecomunicaciones inalámbricas, excepto servicios de satélite",9,1,1,1 a 1,False
+517410,Operadores de servicios de telecomunicaciones vía satélite FINANCIEROS Y DE SEGUROS,,517410,Servicios de telecomunicaciones por satélite,9,1,1,1 a 1,False
+522460,Sociedades financieras de objeto múltiple,p 1/2,522490,Otras instituciones de intermediación crediticia y financiera no bursátil (sociedades financieras de objeto múltiple),9,1,2,1 a N (un 2007 se divide en varios 2013),True
+522490,Otras instituciones de intermediación crediticia y financiera no bursátil,p 2/2,522490,Otras instituciones de intermediación crediticia y financiera no bursátil (excepto sociedades financieras de objeto múltiple),9,1,2,1 a N (un 2007 se divide en varios 2013),True
+531116,Alquiler sin intermediación de edificios industriales dentro de un parque industrial,p 1/2,531119,Alquiler sin intermediación de otros bienes raíces (alquiler sin intermediación de edificios industriales dentro de un parque industrial),9,1,2,1 a N (un 2007 se divide en varios 2013),True
+531119,Alquiler sin intermediación de otros bienes raíces EDUCATIVOS,p 2/2,531119,Alquiler sin intermediación de otros bienes raíces (excepto alquiler sin intermediación de edificios industriales dentro de un parque industrial),9,1,2,1 a N (un 2007 se divide en varios 2013),True
+611211,Escuelas de educación técnica superior del sector privado,,611211,Escuelas de educación postbachillerato del sector privado,9,1,1,1 a 1,False
+611212,Escuelas de educación técnica superior del sector público DE SALUD Y DE ASISTENCIA SOCIAL,,611212,Escuelas de educación postbachillerato del sector público,9,1,1,1 a 1,False
+621111,Consultorios de medicina general del sector privado,p 1/2,621111,Consultorios de medicina general del sector privado (consultorios de medicina general del sector privado) Consultorios de medicina general del sector público,9,1,2,1 a N (un 2007 se divide en varios 2013),True
+621112,del sector público,,621112,(consultorios de medicina general del sector público),9,1,2,1 a N (un 2007 se divide en varios 2013),False
+621113,Consultorios de medicina especializada del sector privado,p 1/2,621113,Consultorios de medicina especializada del sector privado (consultorios de medicina especializada del sector privado),9,1,2,1 a N (un 2007 se divide en varios 2013),True
+621114,Consultorios de medicina especializada del sector público,p 1/2,621114,Consultorios de medicina especializada del sector público (consultorios de medicina especializada del sector público) 4,9,1,2,1 a N (un 2007 se divide en varios 2013),True
+621115,Clínicas de consultorios médicos del sector privado,p 2/2,621111,Consultorios de medicina general del sector privado (clínicas de consultorios médicos generales del sector privado),10,2,2,N a N,True
+621115,Clínicas de consultorios médicos del sector privado,p 2/2,621113,Consultorios de medicina especializada del sector privado (clínicas de consultorios médicos especializados del sector privado),10,2,2,N a N,True
+621116,Clínicas de consultorios médicos del sector público,p 2/2,621112,Consultorios de medicina general del sector público (clínicas de consultorios médicos generales del sector público),10,2,2,N a N,True
+621116,Clínicas de consultorios médicos del sector público,p 2/2,621114,Consultorios de medicina especializada del sector público (clínicas de consultorios médicos especializados del sector público) Y BEBIDAS Restaurantes con servicio completo (restaurantes,10,2,2,N a N,True
+722511,de alimentos a la carta o de comida corrida,p 1/5,722110,con servicio completo de preparación de alimentos a la carta o de comida corrida),10,2,5,N a N,False
+722511,de alimentos a la carta o de comida corrida,p 1/6,722219,Otros restaurantes con servicio limitado (restaurantes con servicio limitado de preparación de alimentos a la carta o de comida corrida),10,2,6,N a N,True
+722512,Restaurantes con servicio de preparación de pescados y mariscos,p 2/5,722110,Restaurantes con servicio completo (restaurantes con servicio completo de preparación de pescados y mariscos),10,2,5,N a N,True
+722512,Restaurantes con servicio de preparación de pescados y mariscos,p 2/6,722219,Otros restaurantes con servicio limitado (restaurantes con servicio limitado de preparación de pescados y mariscos),10,2,6,N a N,True
+722513,Restaurantes con servicio de preparación de antojitos,p 3/5,722110,Restaurantes con servicio completo (restaurantes con servicio completo de preparación de antojitos),10,2,5,N a N,True
+722513,Restaurantes con servicio de preparación de antojitos,p 3/6,722219,Otros restaurantes con servicio limitado (restaurantes con servicio limitado de preparación de antojitos),10,2,6,N a N,True
+722514,Restaurantes con servicio de preparación de tacos y tortas,p 4/5,722110,Restaurantes con servicio completo (restaurantes con servicio completo de preparación de tacos y tortas),10,2,5,N a N,True
+722514,Restaurantes con servicio de preparación de tacos y tortas,p 4/6,722219,Otros restaurantes con servicio limitado (restaurantes con servicio limitado de preparación de tacos y tortas),10,2,6,N a N,True
+722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",p 5/5,722110,"Restaurantes con servicio completo (cafeterías, fuentes de sodas, neverías, refresquerías y similares con servicio completo)",10,2,5,N a N,True
+722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",p 5/6,722219,"Otros restaurantes con servicio limitado (cafeterías, fuentes de sodas, neverías, refresquerías y similares con servicio limitado)",10,2,6,N a N,True
+722516,Restaurantes de autoservicio,,722211,Restaurantes de autoservicio,10,1,1,1 a 1,False
+722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",p 1/2,722212,"Restaurantes de comida para llevar (restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar)",10,1,2,1 a N (un 2007 se divide en varios 2013),True
+722518,Restaurantes que preparan otro tipo de alimentos para llevar,p 2/2,722212,Restaurantes de comida para llevar (restaurantes que preparan otro tipo de alimentos para llevar),10,1,2,1 a N (un 2007 se divide en varios 2013),True
+722519,Servicios de preparación de otros alimentos para consumo inmediato,p 6/6,722219,Otros restaurantes con servicio limitado (servicios de preparación de otros alimentos para consumo inmediato) 5,10,1,6,1 a N (un 2007 se divide en varios 2013),True
+812321,Administración de cementerios pertenecientes al sector privado,p 1/2,812320,Administración de cementerios (administración de cementerios pertenecientes al sector privado),11,1,2,1 a N (un 2007 se divide en varios 2013),True
+812322,Administración de cementerios pertenecientes al sector público,p 2/2,812320,Administración de cementerios (administración de cementerios pertenecientes al sector público) 6,11,1,2,1 a N (un 2007 se divide en varios 2013),True

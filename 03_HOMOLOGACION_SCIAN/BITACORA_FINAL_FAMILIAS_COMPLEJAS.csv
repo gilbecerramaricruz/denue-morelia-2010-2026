@@ -1,0 +1,13 @@
+﻿Familia,Sectores,N_sectores,Codigos_distintos,Grupos_originales,Estado,Tratamiento,Observacion,Cobertura_final
+FL01,46,1,84,2007 → 2013 | G01 || 2013 → 2018 | G01 || 2018 → 2023 | G01,RESUELTA,Homologación a nivel sector 46,Coincidencia exacta 16/16 años; diferencia acumulada = 0,True
+FL02,52,1,5,2007 → 2013 | G02,RESUELTA,Agregación longitudinal por versión: 2007=522430+522490; 2013=522410+522420+522430+522460+522490; 2018/2023=522460+522490,Fusión N→1 entre SCIAN 2013 y 2018; sin reparto retrospectivo,True
+FL03,53,1,2,2007 → 2013 | G03,RESUELTA,2007=531119; 2013/2018/2023=531116+531119,"531116 pertenece a la familia clasificatoria, pero registra 0 establecimientos observados en Morelia",True
+FL04,62,1,3,2007 → 2013 | G04,RESUELTA,Grupo homologado 621111+621113 / 621111+621113+621115,,True
+FL05,62,1,3,2007 → 2013 | G05,RESUELTA,2007=621112+621114; 2013/2018/2023=621112+621114+621116,621116 recibe contenido de clases previas; homologación mediante agregación completa,True
+FL06,72,1,8,2007 → 2013 | G06,RESUELTA,Grupo histórico homologado G06,,True
+FL07,72,1,3,2007 → 2013 | G07,RESUELTA,Grupo histórico homologado G07,,True
+FL08,81,1,3,2007 → 2013 | G08,RESUELTA,2007=812320; 2013/2018/2023=812321+812322,División 1→2; homologación mediante agregación,True
+FL09,33 | 81,2,4,2013 → 2018 | G04 || 2018 → 2023 | G03,RESUELTA CON INCERTIDUMBRE,Intervalo inferior-superior,Transferencia intersectorial; incertidumbre máxima = 1 establecimiento (0.00247% del universo),True
+FL10,48,1,2,2013 → 2018 | G02,RESUELTA,485111 en SCIAN 2007/2013; 485111+485115 en SCIAN 2018/2023,"485115 pertenece a la familia oficial, pero registra 0 establecimientos observados en Morelia",True
+FL11,56,1,8,2013 → 2018 | G03,RESUELTA,2007/2013=562111+562112; 2018/2023=562111+562121+562211+562221+562911+562921+562998,Reestructuración 2→7; homologación mediante agregación del componente completo,True
+FL12,51,1,32,2018 → 2023 | G02,RESUELTA,Subfamilia longitudinal cerrada: 17 clases en SCIAN 2007/2013/2018 y 15 clases en SCIAN 2023,No equivale al sector 51 completo; se conserva como componente homologado específico,True

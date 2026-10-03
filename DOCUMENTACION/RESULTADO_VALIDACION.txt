@@ -1,0 +1,21 @@
+VALIDACIÓN DEL NOTEBOOK REPRODUCIBLE
+
+Estado: APROBADO
+
+El notebook 01_ANALISIS_REPRODUCIBLE_DENUE_MORELIA.ipynb fue ejecutado
+de principio a fin en el entorno de preparación del paquete.
+
+Controles verificados:
+- Inventario reconstruido: 6,435 registros año–código.
+- Códigos únicos por versión: 399 / 407 / 442 / 421.
+- Unidades homologadas: 350.
+- Cobertura: 350/350 unidades con las cuatro versiones SCIAN.
+- Códigos observados sin mapear: 0.
+- Panel: 5,600 observaciones (350 × 16).
+- Conservación de totales: 16/16 cortes.
+- Amplitud máxima por incertidumbre FL09: 1 establecimiento.
+- Auditoría 2018–2019, SCIAN 812110: +561; 98.06 % de exclusivos finales con fecha 2019-11.
+- Auditoría 2023–2024, SCIAN 812110: +794; 97.18 % de exclusivos finales con fecha 2024-11.
+- Control 531116: un establecimiento observado en 2022; narrativa FL03 corregida y conciliada.
+
+Resultado final del notebook: TODOS LOS CONTROLES: OK

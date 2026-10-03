@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utiliza este material, cite el conjunto de código y documentación de la investigación."
+title: "Reconstrucción histórica y homologación longitudinal del DENUE de Morelia, 2010–2026"
+type: software
+authors:
+  - family-names: "Gil Becerra"
+    given-names: "Maricruz Evelyn"
+version: "1.0"
+date-released: "2026-10-02"
