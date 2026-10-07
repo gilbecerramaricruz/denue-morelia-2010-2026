@@ -1,0 +1,189 @@
+﻿anio,codigo_scian,nombre_actividad,establecimientos,familia_homologada,nombre_familia
+2010,722110,RESTAURANTES CON SERVICIO COMPLETO,217,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2010,722211,RESTAURANTES DE AUTOSERVICIO,150,F02,Restaurantes de autoservicio
+2010,722212,RESTAURANTES DE COMIDA PARA LLEVAR,1975,F03,Restaurantes y alimentos para llevar
+2010,722219,OTROS RESTAURANTES CON SERVICIO LIMITADO,1707,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2010,722320,SERVICIOS DE PREPARACION DE ALIMENTOS PARA OCASIONES ESPECIALES,8,F05,Servicios de preparación de alimentos para ocasiones especiales
+2010,722411,"CENTROS NOCTURNOS, DISCOTECAS Y SIMILARES",20,F07,"Centros nocturnos, discotecas y similares"
+2010,722412,"BARES, CANTINAS Y SIMILARES",124,F08,"Bares, cantinas y similares"
+2011,722110,RESTAURANTES CON SERVICIO COMPLETO,222,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2011,722211,RESTAURANTES DE AUTOSERVICIO,150,F02,Restaurantes de autoservicio
+2011,722212,RESTAURANTES DE COMIDA PARA LLEVAR,1975,F03,Restaurantes y alimentos para llevar
+2011,722219,OTROS RESTAURANTES CON SERVICIO LIMITADO,1708,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2011,722320,SERVICIOS DE PREPARACION DE ALIMENTOS PARA OCASIONES ESPECIALES,8,F05,Servicios de preparación de alimentos para ocasiones especiales
+2011,722411,"CENTROS NOCTURNOS, DISCOTECAS Y SIMILARES",19,F07,"Centros nocturnos, discotecas y similares"
+2011,722412,"BARES, CANTINAS Y SIMILARES",124,F08,"Bares, cantinas y similares"
+2012,722110,Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Restaurantes con servicio completo                                                                                                                                                                                                                       -Restaurantes con servicio completo                                                                                                                                                                                                                      ,225,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2012,722211,"Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado                                                                                                                                                              -Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado                                                                                                                                                             ",151,F02,Restaurantes de autoservicio
+2012,722212,"Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado                                                                                                                                                              -Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado                                                                                                                                                             ",1977,F03,Restaurantes y alimentos para llevar
+2012,722219,"Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado                                                                                                                                                              -Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado                                                                                                                                                             ",1718,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2012,722310,Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Servicios de preparación de alimentos por encargo                                                                                                                                                                                                        -Servicios de comedor para empresas e instituciones                                                                                                                                                                                                      ,1,F04,Servicios de comedor para empresas e instituciones
+2012,722320,Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Servicios de preparación de alimentos por encargo                                                                                                                                                                                                        -Servicios de preparación de alimentos para ocasiones especiales                                                                                                                                                                                         ,9,F05,Servicios de preparación de alimentos para ocasiones especiales
+2012,722411,"Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Centros nocturnos, bares, cantinas y similares                                                                                                                                                                                                           -Centros nocturnos, bares, cantinas y similares                                                                                                                                                                                                          ",19,F07,"Centros nocturnos, discotecas y similares"
+2012,722412,"Servicios de alojamiento temporal y de preparación de alimentos y bebidas                                                                                                                                                                                  -Servicios de preparación de alimentos y bebidas                                                                                                                                                                                                           -Centros nocturnos, bares, cantinas y similares                                                                                                                                                                                                           -Centros nocturnos, bares, cantinas y similares                                                                                                                                                                                                          ",124,F08,"Bares, cantinas y similares"
+2013,722110,Restaurantes con servicio completo,233,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2013,722211,Restaurantes de autoservicio,148,F02,Restaurantes de autoservicio
+2013,722212,Restaurantes de comida para llevar,1971,F03,Restaurantes y alimentos para llevar
+2013,722219,Otros restaurantes con servicio limitado,1729,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2013,722310,Servicios de comedor para empresas e instituciones,1,F04,Servicios de comedor para empresas e instituciones
+2013,722320,Servicios de preparación de alimentos para ocasiones especiales,10,F05,Servicios de preparación de alimentos para ocasiones especiales
+2013,722411,"Centros nocturnos, discotecas y similares",19,F07,"Centros nocturnos, discotecas y similares"
+2013,722412,"Bares, cantinas y similares",128,F08,"Bares, cantinas y similares"
+2015,722310,Servicios de comedor para empresas e instituciones,1,F04,Servicios de comedor para empresas e instituciones
+2015,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2015,722411,"Centros nocturnos, discotecas y similares",12,F07,"Centros nocturnos, discotecas y similares"
+2015,722412,"Bares, cantinas y similares",229,F08,"Bares, cantinas y similares"
+2015,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,485,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2015,722512,Restaurantes con servicio de preparación de pescados y mariscos,165,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2015,722513,Restaurantes con servicio de preparación de antojitos,968,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2015,722514,Restaurantes con servicio de preparación de tacos y tortas,1287,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2015,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",594,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2015,722516,Restaurantes de autoservicio,53,F02,Restaurantes de autoservicio
+2015,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",616,F03,Restaurantes y alimentos para llevar
+2015,722518,Restaurantes que preparan otro tipo de alimentos para llevar,504,F03,Restaurantes y alimentos para llevar
+2015,722519,Servicios de preparación de otros alimentos para consumo inmediato,446,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2016,722310,Servicios de comedor para empresas e instituciones,1,F04,Servicios de comedor para empresas e instituciones
+2016,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2016,722411,"Centros nocturnos, discotecas y similares",12,F07,"Centros nocturnos, discotecas y similares"
+2016,722412,"Bares, cantinas y similares",233,F08,"Bares, cantinas y similares"
+2016,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,485,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2016,722512,Restaurantes con servicio de preparación de pescados y mariscos,166,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2016,722513,Restaurantes con servicio de preparación de antojitos,958,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2016,722514,Restaurantes con servicio de preparación de tacos y tortas,1298,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2016,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",592,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2016,722516,Restaurantes de autoservicio,57,F02,Restaurantes de autoservicio
+2016,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",610,F03,Restaurantes y alimentos para llevar
+2016,722518,Restaurantes que preparan otro tipo de alimentos para llevar,512,F03,Restaurantes y alimentos para llevar
+2016,722519,Servicios de preparación de otros alimentos para consumo inmediato,473,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2017,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2017,722411,"Centros nocturnos, discotecas y similares",12,F07,"Centros nocturnos, discotecas y similares"
+2017,722412,"Bares, cantinas y similares",233,F08,"Bares, cantinas y similares"
+2017,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,489,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2017,722512,Restaurantes con servicio de preparación de pescados y mariscos,166,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2017,722513,Restaurantes con servicio de preparación de antojitos,958,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2017,722514,Restaurantes con servicio de preparación de tacos y tortas,1297,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2017,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",594,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2017,722516,Restaurantes de autoservicio,60,F02,Restaurantes de autoservicio
+2017,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",613,F03,Restaurantes y alimentos para llevar
+2017,722518,Restaurantes que preparan otro tipo de alimentos para llevar,512,F03,Restaurantes y alimentos para llevar
+2017,722519,Servicios de preparación de otros alimentos para consumo inmediato,473,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2018,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2018,722411,"Centros nocturnos, discotecas y similares",12,F07,"Centros nocturnos, discotecas y similares"
+2018,722412,"Bares, cantinas y similares",233,F08,"Bares, cantinas y similares"
+2018,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,494,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2018,722512,Restaurantes con servicio de preparación de pescados y mariscos,166,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2018,722513,Restaurantes con servicio de preparación de antojitos,958,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2018,722514,Restaurantes con servicio de preparación de tacos y tortas,1297,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2018,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",589,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2018,722516,Restaurantes de autoservicio,60,F02,Restaurantes de autoservicio
+2018,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",616,F03,Restaurantes y alimentos para llevar
+2018,722518,Restaurantes que preparan otro tipo de alimentos para llevar,512,F03,Restaurantes y alimentos para llevar
+2018,722519,Servicios de preparación de otros alimentos para consumo inmediato,473,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2019,722310,Servicios de comedor para empresas e instituciones,7,F04,Servicios de comedor para empresas e instituciones
+2019,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2019,722330,Servicios de preparación de alimentos en unidades móviles,6,F06,Servicios de preparación de alimentos en unidades móviles
+2019,722411,"Centros nocturnos, discotecas y similares",16,F07,"Centros nocturnos, discotecas y similares"
+2019,722412,"Bares, cantinas y similares",256,F08,"Bares, cantinas y similares"
+2019,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,477,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2019,722512,Restaurantes con servicio de preparación de pescados y mariscos,170,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2019,722513,Restaurantes con servicio de preparación de antojitos,1064,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2019,722514,Restaurantes con servicio de preparación de tacos y tortas,1409,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2019,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",752,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2019,722516,Restaurantes de autoservicio,210,F02,Restaurantes de autoservicio
+2019,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",616,F03,Restaurantes y alimentos para llevar
+2019,722518,Restaurantes que preparan otro tipo de alimentos para llevar,713,F03,Restaurantes y alimentos para llevar
+2019,722519,Servicios de preparación de otros alimentos para consumo inmediato,468,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2020,722310,Servicios de comedor para empresas e instituciones,5,F04,Servicios de comedor para empresas e instituciones
+2020,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2020,722411,"Centros nocturnos, discotecas y similares",17,F07,"Centros nocturnos, discotecas y similares"
+2020,722412,"Bares, cantinas y similares",258,F08,"Bares, cantinas y similares"
+2020,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,536,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2020,722512,Restaurantes con servicio de preparación de pescados y mariscos,176,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2020,722513,Restaurantes con servicio de preparación de antojitos,1076,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2020,722514,Restaurantes con servicio de preparación de tacos y tortas,1394,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2020,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",725,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2020,722516,Restaurantes de autoservicio,108,F02,Restaurantes de autoservicio
+2020,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",686,F03,Restaurantes y alimentos para llevar
+2020,722518,Restaurantes que preparan otro tipo de alimentos para llevar,730,F03,Restaurantes y alimentos para llevar
+2020,722519,Servicios de preparación de otros alimentos para consumo inmediato,536,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2021,722310,Servicios de comedor para empresas e instituciones,8,F04,Servicios de comedor para empresas e instituciones
+2021,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2021,722411,"Centros nocturnos, discotecas y similares",17,F07,"Centros nocturnos, discotecas y similares"
+2021,722412,"Bares, cantinas y similares",258,F08,"Bares, cantinas y similares"
+2021,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,540,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2021,722512,Restaurantes con servicio de preparación de pescados y mariscos,174,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2021,722513,Restaurantes con servicio de preparación de antojitos,1073,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2021,722514,Restaurantes con servicio de preparación de tacos y tortas,1390,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2021,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",713,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2021,722516,Restaurantes de autoservicio,107,F02,Restaurantes de autoservicio
+2021,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",682,F03,Restaurantes y alimentos para llevar
+2021,722518,Restaurantes que preparan otro tipo de alimentos para llevar,715,F03,Restaurantes y alimentos para llevar
+2021,722519,Servicios de preparación de otros alimentos para consumo inmediato,528,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2022,722310,Servicios de comedor para empresas e instituciones,8,F04,Servicios de comedor para empresas e instituciones
+2022,722320,Servicios de preparación de alimentos para ocasiones especiales,16,F05,Servicios de preparación de alimentos para ocasiones especiales
+2022,722411,"Centros nocturnos, discotecas y similares",17,F07,"Centros nocturnos, discotecas y similares"
+2022,722412,"Bares, cantinas y similares",258,F08,"Bares, cantinas y similares"
+2022,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,540,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2022,722512,Restaurantes con servicio de preparación de pescados y mariscos,174,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2022,722513,Restaurantes con servicio de preparación de antojitos,1073,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2022,722514,Restaurantes con servicio de preparación de tacos y tortas,1391,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2022,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",713,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2022,722516,Restaurantes de autoservicio,107,F02,Restaurantes de autoservicio
+2022,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",681,F03,Restaurantes y alimentos para llevar
+2022,722518,Restaurantes que preparan otro tipo de alimentos para llevar,715,F03,Restaurantes y alimentos para llevar
+2022,722519,Servicios de preparación de otros alimentos para consumo inmediato,528,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2023,722310,Servicios de comedor para empresas e instituciones,7,F04,Servicios de comedor para empresas e instituciones
+2023,722320,Servicios de preparación de alimentos para ocasiones especiales,15,F05,Servicios de preparación de alimentos para ocasiones especiales
+2023,722411,"Centros nocturnos, discotecas y similares",17,F07,"Centros nocturnos, discotecas y similares"
+2023,722412,"Bares, cantinas y similares",262,F08,"Bares, cantinas y similares"
+2023,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,547,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2023,722512,Restaurantes con servicio de preparación de pescados y mariscos,174,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2023,722513,Restaurantes con servicio de preparación de antojitos,1075,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2023,722514,Restaurantes con servicio de preparación de tacos y tortas,1396,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2023,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",717,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2023,722516,Restaurantes de autoservicio,107,F02,Restaurantes de autoservicio
+2023,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",680,F03,Restaurantes y alimentos para llevar
+2023,722518,Restaurantes que preparan otro tipo de alimentos para llevar,713,F03,Restaurantes y alimentos para llevar
+2023,722519,Servicios de preparación de otros alimentos para consumo inmediato,529,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2024,722310,Servicios de comedor para empresas e instituciones,12,F04,Servicios de comedor para empresas e instituciones
+2024,722320,Servicios de preparación de alimentos para ocasiones especiales,17,F05,Servicios de preparación de alimentos para ocasiones especiales
+2024,722330,Servicios de preparación de alimentos en unidades móviles,13,F06,Servicios de preparación de alimentos en unidades móviles
+2024,722411,"Centros nocturnos, discotecas y similares",11,F07,"Centros nocturnos, discotecas y similares"
+2024,722412,"Bares, cantinas y similares",261,F08,"Bares, cantinas y similares"
+2024,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,742,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2024,722512,Restaurantes con servicio de preparación de pescados y mariscos,228,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2024,722513,Restaurantes con servicio de preparación de antojitos,1181,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2024,722514,Restaurantes con servicio de preparación de tacos y tortas,1501,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2024,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",819,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2024,722516,Restaurantes de autoservicio,197,F02,Restaurantes de autoservicio
+2024,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",682,F03,Restaurantes y alimentos para llevar
+2024,722518,Restaurantes que preparan otro tipo de alimentos para llevar,545,F03,Restaurantes y alimentos para llevar
+2024,722519,Servicios de preparación de otros alimentos para consumo inmediato,539,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2025,722310,Servicios de comedor para empresas e instituciones,2,F04,Servicios de comedor para empresas e instituciones
+2025,722320,Servicios de preparación de alimentos para ocasiones especiales,17,F05,Servicios de preparación de alimentos para ocasiones especiales
+2025,722330,Servicios de preparación de alimentos en unidades móviles,5,F06,Servicios de preparación de alimentos en unidades móviles
+2025,722411,"Centros nocturnos, discotecas y similares",11,F07,"Centros nocturnos, discotecas y similares"
+2025,722412,"Bares, cantinas y similares",269,F08,"Bares, cantinas y similares"
+2025,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,753,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2025,722512,Restaurantes con servicio de preparación de pescados y mariscos,236,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2025,722513,Restaurantes con servicio de preparación de antojitos,1225,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2025,722514,Restaurantes con servicio de preparación de tacos y tortas,1501,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2025,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",842,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2025,722516,Restaurantes de autoservicio,141,F02,Restaurantes de autoservicio
+2025,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",755,F03,Restaurantes y alimentos para llevar
+2025,722518,Restaurantes que preparan otro tipo de alimentos para llevar,543,F03,Restaurantes y alimentos para llevar
+2025,722519,Servicios de preparación de otros alimentos para consumo inmediato,570,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2026,722310,Servicios de comedor para empresas e instituciones,3,F04,Servicios de comedor para empresas e instituciones
+2026,722320,Servicios de preparación de alimentos para ocasiones especiales,18,F05,Servicios de preparación de alimentos para ocasiones especiales
+2026,722330,Servicios de preparación de alimentos en unidades móviles,5,F06,Servicios de preparación de alimentos en unidades móviles
+2026,722411,"Centros nocturnos, discotecas y similares",11,F07,"Centros nocturnos, discotecas y similares"
+2026,722412,"Bares, cantinas y similares",274,F08,"Bares, cantinas y similares"
+2026,722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,750,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2026,722512,Restaurantes con servicio de preparación de pescados y mariscos,237,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2026,722513,Restaurantes con servicio de preparación de antojitos,1228,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2026,722514,Restaurantes con servicio de preparación de tacos y tortas,1505,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2026,722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",845,F01,Restaurantes y otros servicios de preparación para consumo inmediato
+2026,722516,Restaurantes de autoservicio,144,F02,Restaurantes de autoservicio
+2026,722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",762,F03,Restaurantes y alimentos para llevar
+2026,722518,Restaurantes que preparan otro tipo de alimentos para llevar,545,F03,Restaurantes y alimentos para llevar
+2026,722519,Servicios de preparación de otros alimentos para consumo inmediato,574,F01,Restaurantes y otros servicios de preparación para consumo inmediato
